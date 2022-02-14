@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "Git_RG" {
   location = "eastus"
 
   tags = {
-      Name = "David Oleen"
+    Name = "David Oleen"
 
   }
 }
