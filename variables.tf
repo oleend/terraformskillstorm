@@ -1,6 +1,3 @@
-#variable "Git_RG" {
- # type = string
-#}
 
 variable "client_id" {
   type = string

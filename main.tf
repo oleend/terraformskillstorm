@@ -7,3 +7,12 @@ resource "azurerm_resource_group" "Git_RG" {
 
   }
 }
+
+#module "something"{
+ #   source = "./test"
+
+#Tags= {
+#Name = "David Oleen"
+
+#}
+#}
